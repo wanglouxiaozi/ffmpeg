@@ -1,0 +1,1 @@
+config:arm:::linux:gcc 5.3.1 (Linaro GCC 5.3-2016.02) 20160113:--prefix=/root/qt5.5.1/another-webui/dependentlibsrc/ffmpeg-2.2.4/build/__install --enable-static --enable-shared --enable-pthreads --enable-cross-compile --cross-prefix=aarch64-linux-gnu- --cc=aarch64-linux-gnu-gcc --arch=arm --disable-asm --target-os=linux --optflags=-O0 --disable-programs
